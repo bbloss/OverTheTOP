@@ -1,0 +1,26 @@
+[OutputStatus]
+OutputFileNames0=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\matrix\matrix
+OutputFileNames1=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\profile
+OutputFileNames2=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+OutputFileNames3=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topoverlay\features
+OutputFileNames4=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\toppaste\features
+OutputFileNames5=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topsolder\features
+OutputFileNames6=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\top\features
+OutputFileNames7=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid1\features
+OutputFileNames8=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid2\features
+OutputFileNames9=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottom\features
+OutputFileNames10=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomsolder\features
+OutputFileNames11=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottompaste\features
+OutputFileNames12=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomoverlay\features
+OutputFileNames13=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\features
+OutputFileNames14=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
+OutputFileNames15=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
+OutputFileNames16=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
+OutputFileNames17=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
+OutputFileNames18=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
+OutputFileNames19=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\components
+OutputFileNames20=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\eda\data
+OutputFileNames21=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
+OutputFileNames22=C:\Users\Public\Documents\Altium\Projects\OvertheTOP\Default Configuration\Outputs\ODB\OvertheTOP.REP
+Success=1
+HasRun=1
